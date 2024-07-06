@@ -4642,4 +4642,23 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
   Hendra
 
 <br>
+
+11. [https://nichommerce.com]
+    **Nicho**
+
+Halo teman-teman semuanya, perkenalkan nama saya nicho. Sebelumnya saya suka bikin projek itu menggunakan MERN stack,
+Tapi belakangan ini yang muncul di feeds ig atau youtube saya banyak yang laravel, jadi saya coba belajar laravel kira-kira bulan lalu, dan buat aplikasi e-commerce ini.
+Teknologi yang dipake masih dasar-dasar aja seperti laravel blade, mysql, dan untuk stylingnya pke tailwind css.
+
+Berikut Linknya : ( nichommerce.com ) - Hostinger
+
+Teknologi yang dipake:
+- Laravel
+- Blade
+- Mysql
+- Tailwind CSS
+
+Sejauh ini seru juga pake laravel, nextnya pengen coba juga pake laravel tapi frontendnya mungkin pake vue.
+
+Terima kasih...
 <br>
